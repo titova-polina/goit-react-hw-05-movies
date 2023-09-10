@@ -5,6 +5,7 @@ export const List = styled.ul`
   display: flex;
   padding-bottom: 20px;
   border-bottom: 1px solid #d2e6f7;
+  margin-bottom: 20px;
 `;
 
 export const ListItem = styled.li`

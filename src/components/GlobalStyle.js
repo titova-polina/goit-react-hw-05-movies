@@ -109,6 +109,7 @@ export const Topic = styled.h2`
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-bottom: 10px;
   color: #0e0d24;
 `;
 
